@@ -138,7 +138,6 @@
                 </div>
             </div>
         </div>
-        fff
-        @livewire('wire-elements-modal')
+        
     </body>
 </html>
