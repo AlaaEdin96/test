@@ -1,0 +1,11 @@
+{
+    "name": "Aute",
+    "alias": "aute",
+    "description": "",
+    "keywords": [],
+    "priority": 0,
+    "providers": [
+        "Modules\\Aute\\Providers\\AuteServiceProvider"
+    ],
+    "files": []
+}
